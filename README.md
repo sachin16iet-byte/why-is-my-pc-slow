@@ -1,6 +1,8 @@
 # Why Is My PC Slow?
 
-Local-first backend prototype for a Windows performance diagnosis app.
+A Windows performance diagnostic tool that answers a question Task Manager often does not: "Why is my PC slow?"
+
+Local-first backend prototype for a Windows performance diagnosis app. It analyzes CPU, RAM, disk, GPU, processes, and system activity over time to detect likely bottlenecks and explain the evidence behind each diagnosis, rather than simply displaying performance statistics.
 
 This first version does not build a desktop UI yet. It provides:
 
